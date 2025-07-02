@@ -15,14 +15,14 @@ RFM scores were calculated in Excel, and visualized using Power BI.
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard](dashboard.png)](https://github.com/Meghasoni04/RFM-Customer-Segmentation/blob/ed9a670e5200794c98e8d0cfeec848b97e7f703a/dashboard.png)
-
+[(https://github.com/Meghasoni04/RFM-Customer-Segmentation/blob/9128baf72e24160e4c88ea20fcc109b39b2e8152/RFM_Dashboard%20.pbix)](https://github.com/Meghasoni04/RFM-Customer-Segmentation/blob/9128baf72e24160e4c88ea20fcc109b39b2e8152/Dashboard.png)
 ---
 
-## 📌 Key Insights
-- 🟢 Loyal customers (RFM 444) = 17% of total customers
-- 💰 Top 10 customers generate ₹2.8M+ in sales
-- 🔻 30% of customers at risk (low recency score)
+## 📌 Key Insights 
+- 🟢 *RFM 444 (Loyal customers)* generated ₹1.85M in revenue from 563 customers — frequent, high-value buyers with recent activity
+- 💥 *RFM 441* (low recency, high frequency/monetary) generated ₹4.15M from 524 customers — high-value but at risk of churn
+- 🔄 *RFM 141 & 144* segments brought in over ₹590K — customers with decent frequency but lower recent activity, ideal for re-engagement
+- ⚠️ *RFM 114 & 214* contributed ₹155K+, but with very high recency scores (151+ days), signaling significant churn risk
 
 ---
 
